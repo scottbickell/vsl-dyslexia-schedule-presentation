@@ -518,6 +518,9 @@ sup {
 .dark-blue-bg {
   background: #005587; }
 
+.yellow-bg {
+  background: #fce013; }
+
 @media only screen {
   html {
     min-height: 100%;
